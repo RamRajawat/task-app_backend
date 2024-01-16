@@ -1,0 +1,38 @@
+Task: Build a Task Management System with Collaborative Features
+
+Requirements:
+-------------
+Backend (Node.js and Express):  done
+Create a RESTful API for managing tasks.  done
+Use MongoDB as the database to store task data.  done
+Implement CRUD operations for tasks.  done
+Include user authentication (sign-up, login, logout).  done
+Implement authorization to ensure users can only manage their own tasks.  done
+
+Frontend (React.js):
+--------------------
+Create a dashboard for task management.  done
+Allow users to create, edit, and delete tasks.  done
+Implement a collaborative feature where users can share tasks and collaborate on them.  done
+Include real-time updates for changes in shared tasks.  partially-done
+Implement a notification system for task assignments and updates.  not-done
+
+Connect Frontend and Backend:
+-----------------------------
+Ensure the frontend communicates with the backend through API calls.  done
+Fetch and display user-specific tasks from the backend.  done
+Implement user authentication on the frontend.  done
+Update the backend when a user creates, edits, or deletes a task.  done
+
+Bonus Features (Optional):
+--------------------------
+Add task categories and tags for better organization.  done
+Implement a calendar view for tasks with due dates.  done-now
+Enable file attachments for tasks.  not-done
+Implement a history log for task changes.  not-done
+
+Submission:
+-----------
+Share your code repository (GitHub, Bitbucket, etc.).  done
+Include a README file with instructions on how to run the application locally.  done
+Optionally, deploy the application to a platform like Heroku or Netlify and share the live link.

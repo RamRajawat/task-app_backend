@@ -1,0 +1,8 @@
+Issues in Electronics website:
+=============================
+
+1. Not getting OTP Array.
+2. If navigating to other product, then the product page is not refreshing. 
+3. Order not submitting to orders table.
+4. Unable to create category in Amdin panel.
+5. Coupon code
